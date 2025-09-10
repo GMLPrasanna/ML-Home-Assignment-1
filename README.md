@@ -1,8 +1,8 @@
 CS5710 Machine Learning – Homework 1
 ====================================
 
-*Student Name:* AJAY MUPPA  
-*Student ID:* 700769264
+*Student Name:* GML Prasanna  
+*Student ID:* 700768410
 
 Overview
 --------
